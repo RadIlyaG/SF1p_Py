@@ -1,0 +1,9 @@
+{
+  "SWver": "5.0.1.138",
+  "dbrSWnum": "SW3753",
+  "dutFullName": "ETX-1P/ACEX/1SFP1UTP/4UTP",
+  "dutInitName": "ETX-1P.ACEX.1SFP1UTP.4UTP.json",
+  "mainHW": "0.2",
+  "mainPcbId": "SF-1P.REV0.2I",
+  "uutSWfrom": "fromDbr"
+}

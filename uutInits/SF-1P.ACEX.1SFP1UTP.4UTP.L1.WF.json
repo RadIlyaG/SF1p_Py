@@ -1,0 +1,9 @@
+{
+  "SWver": "5.0.1.138",
+  "csl": "B",
+  "dbrSWnum": "SW3753",
+  "dutInitName": "SF-1P.ACEX.1SFP1UTP.4UTP.L1.WF.json",
+  "mainHW": "0.2",
+  "mainPcbId": "SF-1P.REV0.2I",
+  "uutSWfrom": "fromDbr"
+}
